@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="demojsp@localhost" uuid="6a012bcb-d280-4d80-9b08-875295c44ed9">
+    <data-source source="LOCAL" name="jsp3@localhost" uuid="77de8f4b-fabe-4892-8d9e-5f6926e93a78">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
+      <remarks>MYSQL</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/demojsp</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:3306/jsp3</jdbc-url>
       <jdbc-additional-properties>
         <property name="com.intellij.clouds.kubernetes.db.host.port" />
         <property name="com.intellij.clouds.kubernetes.db.enabled" value="false" />
